@@ -18,7 +18,7 @@
 
 - Using this default flow, a dev can carry all work in a single commit through a feature branch all the way to merge without ever issuing a single git command, just keep your work saved and changes will be pulled automatically
 
-# Condiderations & limitations:
+# Considerations & limitations:
 - file structure must never change, no local working copies allowed inside the repo or they'll be committed at the end of the day
     - is that a problem? a temp file comitted should be deleted when its removed
 - local fork?? <- might be an idea
